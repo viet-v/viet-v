@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Viet 👋
 
-<!--
-**viet-v/viet-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning and working on front end development.
 
-Here are some ideas to get you started:
+Nothing makes me feel more fulfilled than actively contributing positive impacts. Tech is the place I find my motivation and creativity flows, and I believe with the right blend with interpersonal skills, it could bring solutions to all life problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With 3+ years of teamwork in multiple environments, I step into tech as a fast learner and always open to new lessons.
+
+When I’m not working, you can find me <br>
+:dancers: dancing, <br>
+:palm_tree: enjoying nature, or maybe <br>
+:ramen: cooking!
+
+Check out my website: https://vietspace.me/
