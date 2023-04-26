@@ -8,5 +8,3 @@ When I’m not working, you can find me <br>
 :dancers: dancing, <br>
 :palm_tree: enjoying nature, or maybe <br>
 :ramen: cooking!
-
-Check out my website: https://vietspace.me/
