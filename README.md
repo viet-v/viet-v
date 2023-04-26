@@ -1,6 +1,6 @@
 ### Hello, I'm Viet 👋
 
-I’m currently working as a front-end developer.
+I’m working as a front-end developer based in Singapore.
 
 Nothing makes me feel more fulfilled than actively contributing positive impacts. Tech is the place I find my motivation and creativity flow, and I believe with the right blend with interpersonal skills, it could bring solutions to all life problems.
 
