@@ -1,8 +1,9 @@
-### Hello, I'm Viet 👋
+### Hello, I'm Viet (from Vietnam) 👋
 
-As a front-end developer, nothing makes me feel more fulfilled than actively contributing positive impacts. Tech is the place I find my motivation and creativity flow, and I believe with the right blend with interpersonal skills, it could bring solutions to almost all life problems.
+Once a front-end developer, I now work in product management. One thing remains unchanged is my ability to spot the details most people miss, and the drive to create a good user experience, both in digital products and real life.
 
 When I’m not working, you can find me <br>
-:dancers: dancing, <br>
-:palm_tree: enjoying nature, or maybe <br>
-:ramen: cooking!
+🏸 playing badminton,
+🌴 enjoying nature, or maybe <br>
+🕺 dancing!
+
